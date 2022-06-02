@@ -1,0 +1,1 @@
+<h1>Replicação do tutorial provido pela documentação do django</h1>
